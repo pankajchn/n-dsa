@@ -3,7 +3,6 @@
 
 function smallestNum (A) {
     
-    
     let smallest = A[0] // 1
     
     for ( let i = 1; i < A.length; i++ ) {
